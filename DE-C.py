@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 14 09:17:57 2021
-
-@author: Hendry
-"""
-
 #y = 15x - x^2
 import random
 #%%
